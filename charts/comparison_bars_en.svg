@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="700" viewBox="0 0 1240 700" font-family="Segoe UI, Calibri, Arial, sans-serif">
+  <rect x="0" y="0" width="1240" height="700" fill="#ffffff"/>
+  <text x="620" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#253544">token-compression: Token Usage Across Four Tests</text>
+
+  <rect x="950" y="22" width="16" height="16" rx="3" fill="#9fadb9" stroke="#7f8e9c"/>
+  <text x="974" y="35" font-size="13" fill="#34424f">Without skill</text>
+  <rect x="1110" y="22" width="16" height="16" rx="3" fill="#4a86c8" stroke="#3570ad"/>
+  <text x="1134" y="35" font-size="13" fill="#34424f">With skill</text>
+
+  <line x1="90" y1="80" x2="1150" y2="80" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="150" x2="1150" y2="150" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="220" x2="1150" y2="220" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="290" x2="1150" y2="290" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="360" x2="1150" y2="360" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="430" x2="1150" y2="430" stroke="#e6eaef" stroke-width="1"/>
+  <line x1="90" y1="500" x2="1150" y2="500" stroke="#5b6b7c" stroke-width="1.5"/>
+  <text x="78" y="504" text-anchor="end" font-size="12" fill="#66707c">0</text>
+  <text x="78" y="434" text-anchor="end" font-size="12" fill="#66707c">100</text>
+  <text x="78" y="364" text-anchor="end" font-size="12" fill="#66707c">200</text>
+  <text x="78" y="294" text-anchor="end" font-size="12" fill="#66707c">300</text>
+  <text x="78" y="224" text-anchor="end" font-size="12" fill="#66707c">400</text>
+  <text x="78" y="154" text-anchor="end" font-size="12" fill="#66707c">500</text>
+  <text x="78" y="84" text-anchor="end" font-size="12" fill="#66707c">600</text>
+
+  <rect x="125" y="288.6" width="85" height="211.4" fill="#9fadb9" stroke="#7f8e9c" stroke-width="1"/>
+  <text x="167.5" y="280.6" text-anchor="middle" font-size="13" font-weight="bold" fill="#55626f">302</text>
+  <rect x="230" y="423" width="85" height="77" fill="#4a86c8" stroke="#3570ad" stroke-width="1"/>
+  <text x="272.5" y="415" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a5d8f">110</text>
+
+  <rect x="390" y="245.2" width="85" height="254.8" fill="#9fadb9" stroke="#7f8e9c" stroke-width="1"/>
+  <text x="432.5" y="237.2" text-anchor="middle" font-size="13" font-weight="bold" fill="#55626f">364</text>
+  <rect x="490" y="282.3" width="85" height="217.7" fill="#4a86c8" stroke="#3570ad" stroke-width="1"/>
+  <text x="532.5" y="274.3" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a5d8f">311</text>
+
+  <rect x="655" y="311.7" width="85" height="188.3" fill="#9fadb9" stroke="#7f8e9c" stroke-width="1"/>
+  <text x="697.5" y="303.7" text-anchor="middle" font-size="13" font-weight="bold" fill="#55626f">269</text>
+  <rect x="755" y="419.5" width="85" height="80.5" fill="#4a86c8" stroke="#3570ad" stroke-width="1"/>
+  <text x="797.5" y="411.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a5d8f">115</text>
+
+  <rect x="920" y="97.5" width="85" height="402.5" fill="#9fadb9" stroke="#7f8e9c" stroke-width="1"/>
+  <text x="962.5" y="89.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#55626f">575</text>
+  <rect x="1020" y="341.8" width="85" height="158.2" fill="#4a86c8" stroke="#3570ad" stroke-width="1"/>
+  <text x="1062.5" y="333.8" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a5d8f">226</text>
+
+  <text x="220" y="528" text-anchor="middle" font-size="14" fill="#34424f">1 · Ray Tracing</text>
+  <text x="220" y="549" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c6ea5">saved 63.6%</text>
+  <text x="485" y="528" text-anchor="middle" font-size="14" fill="#34424f">2 · Agent Article</text>
+  <text x="485" y="549" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c6ea5">saved 14.6%</text>
+  <text x="750" y="528" text-anchor="middle" font-size="14" fill="#34424f">3 · Caesar Cipher</text>
+  <text x="750" y="549" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c6ea5">saved 57.2%</text>
+  <text x="1015" y="528" text-anchor="middle" font-size="14" fill="#34424f">4 · Large File Read</text>
+  <text x="1015" y="549" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c6ea5">saved 60.7%</text>
+
+  <rect x="260" y="585" width="720" height="66" rx="12" fill="#eef2f7" stroke="#8fb4d8" stroke-width="1.5"/>
+  <text x="620" y="624" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f4e79">Total: without 1510 → with 762 tokens  ·  saved 748 (49.5%)</text>
+
+  <text x="620" y="680" text-anchor="middle" font-size="12" fill="#66707c">Heuristic estimate: CJK 1 char ≈ 1 token, other 4 chars ≈ 1 token; relative comparison only, not API billing. Test 2 is constrained by a fixed 400-character requirement.</text>
+</svg>
